@@ -1,0 +1,15 @@
+header{
+    display: inline-block; width: 100%; 
+}
+
+main{
+    display: inline-block; width: 100%; 
+}
+
+h1{
+    font-size: 60px; margin: 0; color: #3D355E; text-transform: capitalize;
+}
+
+p{
+    margin: 0; color: #5E5E5E;
+}
