@@ -7,9 +7,9 @@ padding: 0;
 
 .container{
     display: inline-block;
-    width: 100%;
+    width: 900px;
+    margin-left: calc(50% - 450px);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: lightcyan; /* delete*/
 }
 
 header{
@@ -53,6 +53,7 @@ span{
     text-decoration: none;
     line-height: 1em;
     display: inline-block;
+    user-select: none;
 }
 
 .logo:hover,
@@ -94,4 +95,6 @@ span{
     float:left;
     width: 48%;
     margin-left: 5%;
+    margin-top: 20px;
+    user-select: none;
 }
